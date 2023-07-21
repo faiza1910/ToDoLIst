@@ -1,2 +1,2 @@
 # ToDoLIst
-This is an app made withReact
+This is an app made with React
